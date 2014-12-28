@@ -10,7 +10,7 @@ Source0:	%{name}-%{version}.tar.gz
 URL:		http://openmoko.org/
 BuildRequires:	autoconf >= 2.53
 BuildRequires:	automake
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	glib2-devel >= 2.0
 BuildRequires:	libtool
 BuildRequires:	openmoko-libs-devel >= 0.0.1
